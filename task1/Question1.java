@@ -33,7 +33,7 @@ public class Question1 {
             numOddEven = "odd";
         }
 
-        // Display output
+        // Display output to the user
         System.out.println("Your sir name has : " + numLetters + " characters");
         System.out.println("Your current age is an " + numOddEven + " number.");
     }
